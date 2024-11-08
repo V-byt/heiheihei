@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/admin.png</file>
+        <file>images/back1.jpg</file>
+        <file>images/eye_false.png</file>
+        <file>images/eye_true.png</file>
+        <file>images/NetBar.png</file>
+        <file>images/user.png</file>
+        <file>resource/MyFont.ttf</file>
+        <file>resource/MyFont2.ttf</file>
+        <file>images/game.png</file>
+        <file>images/shop1.jpg</file>
+        <file>images/shop2.jpg</file>
+        <file>images/shop.png</file>
+        <file>images/shop3.jpg</file>
+        <file>images/shop4.jpg</file>
+        <file>images/shop5.jpg</file>
+        <file>images/shop6.jpg</file>
+        <file>ip.txt</file>
+    </qresource>
+</RCC>
