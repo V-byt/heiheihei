@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/admin.png</file>
+        <file>images/back1.jpg</file>
+        <file>images/eye_false.png</file>
+        <file>images/eye_true.png</file>
+        <file>images/NetBar.png</file>
+        <file>images/user.png</file>
+        <file>resource/MyFont.ttf</file>
+        <file>resource/MyFont2.ttf</file>
+        <file>images/back2.jpg</file>
+        <file>images/Icon.png</file>
+        <file>images/order.png</file>
+    </qresource>
+</RCC>
